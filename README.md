@@ -1,3 +1,4 @@
 # project-demo
-This is my first git repository
-author-Soumya
+This is my first git repository.
+<br>
+Author-Soumya
